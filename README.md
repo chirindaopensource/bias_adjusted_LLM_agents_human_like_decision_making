@@ -253,7 +253,7 @@ Future extensions could include:
 -   **Automated Report Generation:** Creating a function that takes the final `project_artifacts` dictionary and generates a full PDF or HTML report summarizing the findings, including tables, figures, and interpretive text.
 -   **Generalization to Other Games:** Refactoring the game-specific logic (e.g., prompt templates, decision validation) to allow the pipeline to be easily adapted to other classic economic games like the Prisoner's Dilemma or Public Goods Game.
 -   **Advanced Persona Engineering:** Implementing more sophisticated methods for selecting or weighting behavioral traits, potentially using feature selection algorithms to identify the most impactful traits for aligning agent behavior.
--   **Formal Scientific Integrity Report:** Implementing the functions to perform and document a systematic bias analysis and generate a comprehensive limitations section, as outlined in the original Task 8.3.
+-   **Formal Scientific Integrity Report:** Implementing functions to perform and document a systematic bias analysis and generate a comprehensive limitations section.
 
 ## License
 
